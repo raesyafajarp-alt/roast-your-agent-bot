@@ -1,0 +1,1 @@
+{"description":"Writes one one-line roast of my own AI agent to /output/entry.txt for the make.fun Roast Your Own Agent competition.","license":"MIT","main":"main.ts","name":"roast-your-agent-bot","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
