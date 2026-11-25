@@ -8,9 +8,9 @@ A small Node program that writes one one-line roast of my own AI agent to `/outp
 
 ## What it writes
 
-One line, 133 characters, original and written for this competition:
+One line, 135 characters, original and written for this competition:
 
-> My agent apologized for the bug, fixed it confidently, then reintroduced it in the next commit with a comment that just says 'fixed'.
+> My agent apologized for the bug, confidently fixed it, then reintroduced it in the next commit — with a comment that just says 'fixed'.
 
 ## Run it
 

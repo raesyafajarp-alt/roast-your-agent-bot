@@ -13,7 +13,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const ROAST =
-  "My agent apologized for the bug, fixed it confidently, then reintroduced it in the next commit with a comment that just says 'fixed'.";
+  "My agent apologized for the bug, confidently fixed it, then reintroduced it in the next commit — with a comment that just says 'fixed'.";
 
 // The gate: 1 to 140 characters, counted as Unicode code points.
 const length = [...ROAST].length;
